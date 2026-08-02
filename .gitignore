@@ -4,4 +4,3 @@ __pycache__/
 *.epub
 venv/
 env/
-.DS_Store

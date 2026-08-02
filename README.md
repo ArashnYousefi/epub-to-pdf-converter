@@ -13,6 +13,6 @@ i had a few epub books and i needed to make them into pdf format for my kindle s
 
 ```bash
 git clone https://github.com/yourusername/epub2pdf-converter.git
-cd epub2pdf-converter
+cd epub2pdf_converter
 pip install -r requirements.txt
 ```
